@@ -1,0 +1,17 @@
+commit 2bbf3bd99e6ebf59f8d2b719f1855c3f5a82d004
+Author: Kseniia Ionina <ionina.deutsch@gmail.com>
+Date:   Mon Aug 22 20:55:50 2022 +0200
+
+    Css не добавили
+
+commit 72d3cb65d07d0c95c2cdacedbac1cdde3660f1e0
+Author: Kseniia Ionina <ionina.deutsch@gmail.com>
+Date:   Mon Aug 22 20:34:52 2022 +0200
+
+    Какой-то текст к комиту,поясняющий суть моих правок
+
+commit b2fcf249530c2f511b34954fb63106805baf9e9f
+Author: Kseniia Ionina <ionina.deutsch@gmail.com>
+Date:   Mon Aug 22 10:50:01 2022 +0200
+
+    nitial commit
